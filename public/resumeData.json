@@ -1,0 +1,75 @@
+{
+  "main": {
+    "name": "Nikhil Kumar",
+    "occupation": "Web Developer",
+    "description": "CODE-HUNGER",
+    "image": "img.png",
+    "bio": "Hello, I am a <full stack developer/> with MERN stack technology. Passionate about coding and willingness to learn more things. Enthusiast to work with team work and about real world problem solving. <frontend> HTML , CSS , JavaScript, React Js </frontend> <backend> Node Js, Express Js </backend> <database> MondoDB </database> <language>Javascript, Java </language>",
+    "contactmessage": "get in touch with me",
+    "email": "unikkdev@gmail.com",
+    "phone": "+91 6268332743",
+    "address": {
+      "city": "Bhilai",
+      "state": "Chhattisgarh"
+    },
+    "social": [
+      {
+        "name": "github",
+        "url": "https://github.com/nikkk9",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/nikk9/",
+        "className": "fa fa-linkedin"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Rungta College Of Engineering and Technology",
+        "degree": "Master of Computer Application (MCA)",
+        "graduated": "2023"
+      }
+    ],
+
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "85%"
+      },
+      {
+        "name": "NodeJs & ExpressJs",
+        "level": "80%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "75%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "90%"
+      },
+      {
+        "name": "Web Development",
+        "level": "95%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "YOU CAN SEE MY ALL PROJECTS THROUGH GITHUB ",
+        "category": "project",
+        "image": "projects.jpeg",
+        "url": "https://github.com/nikkk9"
+      }
+    ]
+  }
+}
